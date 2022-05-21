@@ -10,4 +10,4 @@
 - react-twitter-embed
 
 
-Live version: <a href="https://next-tomato.vercel.app" target="_blank">there</a>
+Live version: <a href="https://next-twitter-paciodev.vercel.app" target="_blank">there</a>
